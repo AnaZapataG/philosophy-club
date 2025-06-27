@@ -11,10 +11,14 @@
             "id": "9d982d3b76879d16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -163,6 +167,8 @@
   },
   "active": "9d982d3b76879d16",
   "lastOpenFiles": [
+    "private/Drafts.md",
+    "private",
     "public/authors/Hume.md",
     "public/Questions/What is philosophy?.md",
     "website/archetypes/default.md",
@@ -174,7 +180,6 @@
     "website/data",
     "website/content",
     "website/assets",
-    "website/archetypes",
-    "website"
+    "website/archetypes"
   ]
 }
